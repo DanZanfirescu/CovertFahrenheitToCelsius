@@ -12,6 +12,5 @@ public class Main {
         double Celsius = val1 / val2 * (Fahrenheit - val3);
             //se afiseaza mesajul care contine valoarea in Celsius
         JOptionPane.showMessageDialog(null, "Grade Celsius   " + Celsius);
-            //se bucura bobo ca o reusit :)))
     }
 }
